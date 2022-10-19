@@ -6,4 +6,4 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-测试pull
+测试pull by git_test
